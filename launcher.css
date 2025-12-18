@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: orange;
+}
+
+p {
+    color: orange;
+}
+
+a:link {
+    color: orange;
+}
+
+a:hover {
+    color: yellow;
+}

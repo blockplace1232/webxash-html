@@ -1,7 +1,7 @@
 # webxash-html
 A port of Half-Life to your web browser using [WebXash3D-FWGS Emscripten](https://github.com/yohimik/webxash3d-fwgs).
 
-Inspired by: [WebXash](hhttps://x8bitrain.github.io/webXash/)
+Inspired by: [WebXash](https://x8bitrain.github.io/webXash/)
 
 ## "Installation" instructions:
 
